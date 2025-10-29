@@ -1,0 +1,8 @@
+public interface;
+interface calculater{
+    public void add();
+    public void subtract();
+    public void maltuply();
+    public void adivid();
+}
+public class a iplments calculater

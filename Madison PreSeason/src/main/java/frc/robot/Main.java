@@ -22,10 +22,11 @@ public final class Main {
   public static void main(String... args) {
 
     int X = 5;
-    int Y = 10;
+    int Y = 10; 
     int Z = X  *  Y ;
   System.out.println(Z);
-
+  boolean if z == 50;
+    System.out.println(int 5 );
 }
     //RobotBase.startRobot(Robot::new);
     
