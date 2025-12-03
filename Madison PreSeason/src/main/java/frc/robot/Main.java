@@ -24,13 +24,14 @@ public final class Main {
     int X = 5;
     int Y = 10; 
     int Z = X  *  Y ;
-  System.out.println(Z);
-  boolean if z == 50;
-    System.out.println(int 5 );
+    System.out.println(Z);
+    boolean if z == 50;{
+      System.out.println(int 5 );
+    }
 }
     //RobotBase.startRobot(Robot::new);
     
-
+// i am trring to get this to git hub
 
 
   }
