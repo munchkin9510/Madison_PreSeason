@@ -25,8 +25,8 @@ public final class Main {
     int Y = 10; 
     int Z = X  *  Y ;
     System.out.println(Z);
-    boolean if z == 50;{
-      System.out.println(int 5 );
+    //boolean if z == 50;{
+     // System.out.println(int 5 );
     }
 }
     //RobotBase.startRobot(Robot::new);
@@ -36,6 +36,7 @@ public final class Main {
 // I cunected github (:
 //testing agein
 // and it worked agein
+// testing ageain 1/19/2026
 
 
   }
